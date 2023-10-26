@@ -1,0 +1,14 @@
+/home/ilklmkn/RiderProjects/dotnet lessons/DotnetLessons/Reflection/TaskReflection/bin/Debug/net7.0/TaskReflection
+/home/ilklmkn/RiderProjects/dotnet lessons/DotnetLessons/Reflection/TaskReflection/bin/Debug/net7.0/TaskReflection.deps.json
+/home/ilklmkn/RiderProjects/dotnet lessons/DotnetLessons/Reflection/TaskReflection/bin/Debug/net7.0/TaskReflection.runtimeconfig.json
+/home/ilklmkn/RiderProjects/dotnet lessons/DotnetLessons/Reflection/TaskReflection/bin/Debug/net7.0/TaskReflection.dll
+/home/ilklmkn/RiderProjects/dotnet lessons/DotnetLessons/Reflection/TaskReflection/bin/Debug/net7.0/TaskReflection.pdb
+/home/ilklmkn/RiderProjects/dotnet lessons/DotnetLessons/Reflection/TaskReflection/obj/Debug/net7.0/TaskReflection.GeneratedMSBuildEditorConfig.editorconfig
+/home/ilklmkn/RiderProjects/dotnet lessons/DotnetLessons/Reflection/TaskReflection/obj/Debug/net7.0/TaskReflection.AssemblyInfoInputs.cache
+/home/ilklmkn/RiderProjects/dotnet lessons/DotnetLessons/Reflection/TaskReflection/obj/Debug/net7.0/TaskReflection.AssemblyInfo.cs
+/home/ilklmkn/RiderProjects/dotnet lessons/DotnetLessons/Reflection/TaskReflection/obj/Debug/net7.0/TaskReflection.csproj.CoreCompileInputs.cache
+/home/ilklmkn/RiderProjects/dotnet lessons/DotnetLessons/Reflection/TaskReflection/obj/Debug/net7.0/TaskReflection.dll
+/home/ilklmkn/RiderProjects/dotnet lessons/DotnetLessons/Reflection/TaskReflection/obj/Debug/net7.0/refint/TaskReflection.dll
+/home/ilklmkn/RiderProjects/dotnet lessons/DotnetLessons/Reflection/TaskReflection/obj/Debug/net7.0/TaskReflection.pdb
+/home/ilklmkn/RiderProjects/dotnet lessons/DotnetLessons/Reflection/TaskReflection/obj/Debug/net7.0/TaskReflection.genruntimeconfig.cache
+/home/ilklmkn/RiderProjects/dotnet lessons/DotnetLessons/Reflection/TaskReflection/obj/Debug/net7.0/ref/TaskReflection.dll

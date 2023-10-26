@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jJyrib2mUqkco5cThGZIuPGaiYPX9Ndg+a2aB/PjAcUI19wfshCI1sPo4hXQi3UraOsyg5GoybXd5hqJ5ts2aA==",
+  "success": true,
+  "projectFilePath": "/home/ilklmkn/RiderProjects/dotnet lessons/lesson5/Monades/Monades/Monades.fsproj",
+  "expectedPackageFiles": [
+    "/home/ilklmkn/.nuget/packages/fsharp.core/7.0.400/fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,4 @@
+/home/ilklmkn/RiderProjects/dotnet lessons/DotnetLessons/Reflection/obj/Debug/net7.0/Reflection.GeneratedMSBuildEditorConfig.editorconfig
+/home/ilklmkn/RiderProjects/dotnet lessons/DotnetLessons/Reflection/obj/Debug/net7.0/Reflection.AssemblyInfoInputs.cache
+/home/ilklmkn/RiderProjects/dotnet lessons/DotnetLessons/Reflection/obj/Debug/net7.0/Reflection.AssemblyInfo.cs
+/home/ilklmkn/RiderProjects/dotnet lessons/DotnetLessons/Reflection/obj/Debug/net7.0/Reflection.csproj.CoreCompileInputs.cache

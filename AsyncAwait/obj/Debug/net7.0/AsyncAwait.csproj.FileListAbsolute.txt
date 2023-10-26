@@ -1,0 +1,14 @@
+/home/ilklmkn/RiderProjects/dotnet lessons/DotnetLessons/AsyncAwait/bin/Debug/net7.0/AsyncAwait
+/home/ilklmkn/RiderProjects/dotnet lessons/DotnetLessons/AsyncAwait/bin/Debug/net7.0/AsyncAwait.deps.json
+/home/ilklmkn/RiderProjects/dotnet lessons/DotnetLessons/AsyncAwait/bin/Debug/net7.0/AsyncAwait.runtimeconfig.json
+/home/ilklmkn/RiderProjects/dotnet lessons/DotnetLessons/AsyncAwait/bin/Debug/net7.0/AsyncAwait.dll
+/home/ilklmkn/RiderProjects/dotnet lessons/DotnetLessons/AsyncAwait/bin/Debug/net7.0/AsyncAwait.pdb
+/home/ilklmkn/RiderProjects/dotnet lessons/DotnetLessons/AsyncAwait/obj/Debug/net7.0/AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+/home/ilklmkn/RiderProjects/dotnet lessons/DotnetLessons/AsyncAwait/obj/Debug/net7.0/AsyncAwait.AssemblyInfoInputs.cache
+/home/ilklmkn/RiderProjects/dotnet lessons/DotnetLessons/AsyncAwait/obj/Debug/net7.0/AsyncAwait.AssemblyInfo.cs
+/home/ilklmkn/RiderProjects/dotnet lessons/DotnetLessons/AsyncAwait/obj/Debug/net7.0/AsyncAwait.csproj.CoreCompileInputs.cache
+/home/ilklmkn/RiderProjects/dotnet lessons/DotnetLessons/AsyncAwait/obj/Debug/net7.0/AsyncAwait.dll
+/home/ilklmkn/RiderProjects/dotnet lessons/DotnetLessons/AsyncAwait/obj/Debug/net7.0/refint/AsyncAwait.dll
+/home/ilklmkn/RiderProjects/dotnet lessons/DotnetLessons/AsyncAwait/obj/Debug/net7.0/AsyncAwait.pdb
+/home/ilklmkn/RiderProjects/dotnet lessons/DotnetLessons/AsyncAwait/obj/Debug/net7.0/AsyncAwait.genruntimeconfig.cache
+/home/ilklmkn/RiderProjects/dotnet lessons/DotnetLessons/AsyncAwait/obj/Debug/net7.0/ref/AsyncAwait.dll

@@ -1,0 +1,19 @@
+@model List<ProductViewModel>
+
+@{
+    ViewBag.Title = "Products";
+    Layout = "_Layout";
+}
+
+@foreach (var product in Model)
+{
+    <div style="background-color: whitesmoke; border: 2px solid black; border-radius: 1em; margin: 10px; border-color: #808080">
+        <h1 style="text-align: center; color: #808080">
+            @product.Name
+        </h1>
+        <h3 style="text-align: center; color: #808080">
+            @product.Price
+        </h3>
+        <a style="display: block;  text-align:center; color: blue; text-decoration: none" asp-controller="Products" asp-action="AboutProduct" asp-route-id="@product.Id">Подробнее</a>
+    </div>
+}

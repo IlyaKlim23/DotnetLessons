@@ -1,0 +1,23 @@
+@using Extensions.Extensions
+@model double?
+
+@{
+    ViewBag.Title = "Calculator";
+    Layout = "_Layout";
+}
+
+@using (Html.BeginForm("Calculate", "Calculator", FormMethod.Post))
+{
+    <input type="number" name="num1" placeholder="Введите число 1" required /><br />
+    <input type="number" name="num2" placeholder="Введите число 2" required /><br />
+    <select name="operation" required>
+        <option value="+">+</option>
+        <option value="-">-</option>
+        <option value="*">*</option>
+        <option value="/">/</option>
+    </select><br />
+    <input type="submit" value="Вычислить" />
+}
+
+@Html.DisplayResult(Model)
+
